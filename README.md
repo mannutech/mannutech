@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am sensible software engineer with my skills soaked with Blockchain.
+I am sensible software engineer with my skills soaked in Blockchain.
