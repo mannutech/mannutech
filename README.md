@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namaskaram 👋
 
 <!--
 **mannutech/mannutech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am sensible software engineer with my skills soaked with Blockchain.
