@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * LinkedIn: https://www.linkedin.com/in/hiteshgoelafs
 * Twitter: https://twitter.com/theweekendyogi
 * Instagram: https://www.instagram.com/theweekendyogi
-* Personal Blog (*Spirituality 🧘 , Self-awareness tools 🛠 , Yoga 🧘‍♂️ *) : 
+* Personal Blog (*Spirituality 🧘 , Self-awareness tools 🛠 , Yoga 🧘‍♂️ *) : https://weekendyogi.com/
 
 
 ## Tech Stack
