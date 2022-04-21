@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 - Cross chain bridges
 - Native and token batch transfer smart contracts
 - Full node management
-- #Chainalysis integration
 - Developer SDKs
 - Chain Desktop Wallet
+- NFT Smart contracts ( ERC721 / ERC1155 )
 
 
 ### Web2.0 Experience
