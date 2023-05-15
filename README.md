@@ -15,26 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* A sensible software 👨‍💻 engineer/developer  with my skills soaked in Blockchain. 
+- A sensible software 👨‍💻 developer with my skills soaked in Web3.0 and Web2.0.
 
-* LinkedIn: https://www.linkedin.com/in/hiteshgoelafs
-* Twitter: https://twitter.com/theweekendyogi
-* Instagram: https://www.instagram.com/theweekendyogi
-* Personal Blog (*Spirituality 🧘 , Self-awareness tools 🛠 , Yoga 🧘‍♂️ *) : https://weekendyogi.com/
+Links 🔗:  [LinkedIn](https://www.linkedin.com/in/hiteshgoelafs) | [Twitter](https://twitter.com/theweekendyogi) | [Instagram](https://www.instagram.com/theweekendyogi) | [Personal Website 🛠](https://weekendyogi.com/)
 
 
 ## Tech Stack
 ### Web3.0 Experience (Blockchain):
+- Non-Custodial Wallet Development
+    - HD / Non-HD Wallets
+    - Transaction builder for Cosmos SDK, EVM, UTXO Chains etc.
 - Custodial wallet management
     - Consolidation
-    - liquidity
     - private key management
 - Cross chain bridges
-- Native and token batch transfer smart contracts
-- Full node management
-- Developer SDKs
-- Chain Desktop Wallet
-- NFT Smart contracts ( ERC721 / ERC1155 )
+- Solidity Smart Contracts
+    - NFT ( ERC721 / ERC1155 )
+    - Batch Token transfer
+    - AMM using Uniswap
+- Built Blockchain Full node management systems
+- ZK EVM & L2 scaling Chains
 
 
 ### Web2.0 Experience
